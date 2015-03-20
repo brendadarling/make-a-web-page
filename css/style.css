@@ -1,0 +1,39 @@
+html{
+  font-family:calibri;
+  font-size:20px;
+  color:red;
+}
+
+h1{
+  text-align:center;
+    color:blue;
+  background-color:aqua;
+}
+
+ul {
+	list-style-type: none; /* this removes the bullets that show up by default in unordered lists */
+}
+
+li {
+	font-size: 20px;
+	line-height: 44px; 
+}
+
+.concept {
+  background-color:purple;
+  color:white;
+  padding: 4px;
+	margin: 10px;
+	border-radius: 4px
+}
+
+.concept-title{
+  text-align:center;
+  font-size:30px;
+  margin:10px;
+}
+
+.lesson{
+  background-color:pink;
+  color:black;
+}
